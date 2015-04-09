@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="playername">Music Player</string>
+    <string name="app_name">Music Player</string>
+    <string name="isPlaying">Song is Playing</string>
+    <string name="stopped">Song is stopped</string>
+    <string name="paused">Song is paused</string>
+    <string name="reset">Player is reset</string>
+    <string name="NowPlaying">Now Playing</string>
+    <string name="SongList">Song List</string>
+
+    <string-array name="Songs">
+        <item>Man with the Blues</item>
+        <item>Maroon 5 Misery</item>
+    </string-array>
+    <string-array name="filename">
+        <item>man_with_the_blues</item>
+        <item>maroon5_misery</item>
+    </string-array>
+
+    <string name="title_activity_playlist">Playlist</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
